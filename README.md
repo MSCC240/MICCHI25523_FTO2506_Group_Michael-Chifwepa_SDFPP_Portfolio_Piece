@@ -14,7 +14,7 @@ This is a responsive resume website built using HTML and CSS. It follows the Fig
 - Mobile-friendly
 
 ## Video Walkthrough
-[Watch the video here](YOUR_VIDEO_LINK)
+[Watch the video here](https://drive.google.com/file/d/1hzV7INZ1WVkjZfmUnExih83zGkNkJCJ5/view?usp=drive_link)
 
 ## Author
 Michael Chifwepa – SDFPP 2025
